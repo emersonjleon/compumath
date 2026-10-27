@@ -10,3 +10,4 @@ Curso online de Matemáticas y Computación: lecciones con notebooks de Python p
 | 2 | El azar (monedas con random y el triángulo de Sierpinski con sliders) | [Guía](https://claude.ai/artifact/J9hg34z5dVTxz8kEgLq2ce) | [Notebook](lecciones/leccion02/MatComp_Leccion02_El_azar_y_Sierpinski.ipynb) |
 | 3 | Números primos (divisores, criba de Eratóstenes, espiral de Ulam) | [Guía](https://claude.ai/artifact/UNYznNe12XEAx2mru8iVNQ) | [Notebook](lecciones/leccion03/MatComp_Leccion03_Numeros_primos.ipynb) |
 | 4 | El algoritmo de Euclides (máximo común divisor, baldosas, coprimos) | [Guía](https://claude.ai/artifact/WL6B6uTuryfAPrVYEGdGHd) | [Notebook](lecciones/leccion04/MatComp_Leccion04_Algoritmo_de_Euclides.ipynb) |
+| 5 | El sistema binario (tarjetas mágicas, otras bases, colores hexadecimales) | [Guía](https://claude.ai/artifact/YGMex9fsBEToSuAXQZFvp9) | [Notebook](lecciones/leccion05/MatComp_Leccion05_Sistema_binario.ipynb) |
