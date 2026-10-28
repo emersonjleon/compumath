@@ -20,3 +20,4 @@ Acá podras encontrar material que te ayude a preparar en temas de programación
 | 3 | Números primos (divisores, criba de Eratóstenes, espiral de Ulam) | [Guía](https://claude.ai/artifact/UNYznNe12XEAx2mru8iVNQ) | [Notebook](lecciones/leccion03/MatComp_Leccion03_Numeros_primos.ipynb) |
 | 4 | El algoritmo de Euclides (máximo común divisor, baldosas, coprimos) | [Guía](https://claude.ai/artifact/WL6B6uTuryfAPrVYEGdGHd) | [Notebook](lecciones/leccion04/MatComp_Leccion04_Algoritmo_de_Euclides.ipynb) |
 | 5 | El sistema binario (tarjetas mágicas, otras bases, colores hexadecimales) | [Guía](https://claude.ai/artifact/YGMex9fsBEToSuAXQZFvp9) | [Notebook](lecciones/leccion05/MatComp_Leccion05_Sistema_binario.ipynb) |
+| 6 | Decimales periódicos (división larga, el número cíclico 142857, 0,999… = 1) | [Guía](https://claude.ai/artifact/QPJd9MzAC72KkRxGbvRtvi) | [Notebook](lecciones/leccion06/MatComp_Leccion06_Decimales_periodicos.ipynb) |
