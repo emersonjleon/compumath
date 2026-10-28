@@ -6,10 +6,7 @@ Curso online de **Matemáticas y Computación**: lecciones con notebooks de Pyth
 ## Links
 Acá podras encontrar material que te ayude a preparar en temas de programación e inteligencia artificial:
 
-* [Kaggle](https://www.kaggle.com)
-* [Colab](https://colab.research.google.com/)
-* [Gemma 4](https://aistudio.google.com/prompts/new_chat?model=gemma-4-31b-it)
-* [Tutoriales Cyborg](https://emersonjleon.github.io/emersonjleon/tutorials/home.html)
+[Kaggle](https://www.kaggle.com)   -    [Colab](https://colab.research.google.com/)   - [Serrano Academy](https://www.youtube.com/@SerranoAcademy) -  [Gemma 4](https://aistudio.google.com/prompts/new_chat?model=gemma-4-31b-it) -  [Tutoriales Cyborg](https://emersonjleon.github.io/emersonjleon/tutorials/home.html)
 
 ## Lecciones
 
