@@ -22,3 +22,4 @@ Acá podras encontrar material que te ayude a preparar en temas de programación
 | 8 | Geometría con dibujos (la tortuga programable, estrellas y MCD, π de Arquímedes) | [Guía](https://claude.ai/artifact/EBx5CrvGeUrSifoYkwZLgD) | [Notebook](lecciones/leccion08/MatComp_Leccion08_Geometria_con_dibujos.ipynb) |
 | 9 | El teorema de Pitágoras (demostración visual, ternas pitagóricas, espiral de Teodoro) | [Guía](https://claude.ai/artifact/8PsToHuy1cDGpkrSZxLnhX) | [Notebook](lecciones/leccion09/MatComp_Leccion09_Teorema_de_Pitagoras.ipynb) |
 | 10 | Probabilidad (el problema de Monty Hall y la paradoja del cumpleaños) | [Guía](https://claude.ai/artifact/VoJLR5VxnSnLauV7zb62cB) | [Notebook](lecciones/leccion10/MatComp_Leccion10_Probabilidad_Monty_Hall.ipynb) |
+| 11 | π por Montecarlo (dardos al azar, error 1/√n, aguja de Buffon) | [Guía](https://claude.ai/artifact/J92Nu5shqb22V2CUA5LYzQ) | [Notebook](lecciones/leccion11/MatComp_Leccion11_Pi_por_Montecarlo.ipynb) |
