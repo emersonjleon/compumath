@@ -12,14 +12,18 @@ Acá podras encontrar material que te ayude a preparar en temas de programación
 
 El curso tiene tres secciones. Si nunca has programado, empieza por la Sección 1.
 
-### Sección 1: Python desde cero
+<details open>
+<summary><strong>Sección 1: Python desde cero</strong></summary>
 
 Doce lecciones para aprender Python paso a paso, pensadas para quien nunca ha programado.
 
 | # | Tema | Guía docente | Notebook |
 |---|------|--------------|-----------|
 
-### Sección 2: Matemáticas y Computación
+</details>
+
+<details>
+<summary><strong>Sección 2: Matemáticas y Computación</strong></summary>
 
 Exploraciones matemáticas con Python (requiere lo básico de la Sección 1).
 
@@ -38,9 +42,14 @@ Exploraciones matemáticas con Python (requiere lo básico de la Sección 1).
 | 11 | π por Montecarlo (dardos al azar, error 1/√n, aguja de Buffon) | [Guía](https://claude.ai/artifact/J92Nu5shqb22V2CUA5LYzQ) | [Notebook](lecciones/seccion2_matematicas/leccion11/MatComp_Leccion11_Pi_por_Montecarlo.ipynb) |
 | 12 | Combinatoria (principio multiplicativo, permutaciones, combinaciones, caminos y Baloto) | [Guía](https://claude.ai/artifact/4rFzqqkWsUVekcw54TG2tw) | [Notebook](lecciones/seccion2_matematicas/leccion12/MatComp_Leccion12_Combinatoria.ipynb) |
 
-### Sección 3: Machine learning y redes neuronales
+</details>
+
+<details>
+<summary><strong>Sección 3: Machine learning y redes neuronales</strong></summary>
 
 Datos, modelos de aprendizaje automático y redes neuronales (requiere las Secciones 1 y 2).
 
 | # | Tema | Guía docente | Notebook |
 |---|------|--------------|-----------|
+
+</details>
