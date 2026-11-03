@@ -19,6 +19,7 @@ Doce lecciones para aprender Python paso a paso, pensadas para quien nunca ha pr
 
 | # | Tema | Guía docente | Notebook |
 |---|------|--------------|-----------|
+| 1 | Colab, `print` y Python como calculadora (operadores, comentarios y errores) | [Guía](https://claude.ai/artifact/8fA1fZBjsbqXRGBoSSbqRi) | [Notebook](lecciones/seccion1_python/leccion01/Py_Leccion01_Colab_print_y_calculadora.ipynb) |
 
 </details>
 
