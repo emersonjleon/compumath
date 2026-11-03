@@ -10,17 +10,37 @@ Acá podras encontrar material que te ayude a preparar en temas de programación
 
 ## Lecciones
 
+El curso tiene tres secciones. Si nunca has programado, empieza por la Sección 1.
+
+### Sección 1: Python desde cero
+
+Doce lecciones para aprender Python paso a paso, pensadas para quien nunca ha programado.
+
 | # | Tema | Guía docente | Notebook |
 |---|------|--------------|-----------|
-| 1 | Patrones y sucesiones (triangulares, Fibonacci, Collatz) | [Guía](https://claude.ai/artifact/8k6fgj7tR4xLzP6rBUAPCy) | [Notebook](lecciones/leccion01/MatComp_Leccion01_Patrones_y_sucesiones.ipynb) |
-| 2 | El azar (monedas con random y el triángulo de Sierpinski con sliders) | [Guía](https://claude.ai/artifact/J9hg34z5dVTxz8kEgLq2ce) | [Notebook](lecciones/leccion02/MatComp_Leccion02_El_azar_y_Sierpinski.ipynb) |
-| 3 | Números primos (divisores, criba de Eratóstenes, espiral de Ulam) | [Guía](https://claude.ai/artifact/UNYznNe12XEAx2mru8iVNQ) | [Notebook](lecciones/leccion03/MatComp_Leccion03_Numeros_primos.ipynb) |
-| 4 | El algoritmo de Euclides (máximo común divisor, baldosas, coprimos) | [Guía](https://claude.ai/artifact/WL6B6uTuryfAPrVYEGdGHd) | [Notebook](lecciones/leccion04/MatComp_Leccion04_Algoritmo_de_Euclides.ipynb) |
-| 5 | El sistema binario (tarjetas mágicas, otras bases, colores hexadecimales) | [Guía](https://claude.ai/artifact/YGMex9fsBEToSuAXQZFvp9) | [Notebook](lecciones/leccion05/MatComp_Leccion05_Sistema_binario.ipynb) |
-| 6 | Decimales periódicos (división larga, el número cíclico 142857, 0,999… = 1) | [Guía](https://claude.ai/artifact/QPJd9MzAC72KkRxGbvRtvi) | [Notebook](lecciones/leccion06/MatComp_Leccion06_Decimales_periodicos.ipynb) |
-| 7 | Funciones y gráficas (rectas y parábolas con sliders, crecimiento exponencial, bisección) | [Guía](https://claude.ai/artifact/JuYcf6Mn9CkBMZfSjNWfK2) | [Notebook](lecciones/leccion07/MatComp_Leccion07_Funciones_y_graficas.ipynb) |
-| 8 | Geometría con dibujos (la tortuga programable, estrellas y MCD, π de Arquímedes) | [Guía](https://claude.ai/artifact/EBx5CrvGeUrSifoYkwZLgD) | [Notebook](lecciones/leccion08/MatComp_Leccion08_Geometria_con_dibujos.ipynb) |
-| 9 | El teorema de Pitágoras (demostración visual, ternas pitagóricas, espiral de Teodoro) | [Guía](https://claude.ai/artifact/8PsToHuy1cDGpkrSZxLnhX) | [Notebook](lecciones/leccion09/MatComp_Leccion09_Teorema_de_Pitagoras.ipynb) |
-| 10 | Probabilidad (el problema de Monty Hall y la paradoja del cumpleaños) | [Guía](https://claude.ai/artifact/VoJLR5VxnSnLauV7zb62cB) | [Notebook](lecciones/leccion10/MatComp_Leccion10_Probabilidad_Monty_Hall.ipynb) |
-| 11 | π por Montecarlo (dardos al azar, error 1/√n, aguja de Buffon) | [Guía](https://claude.ai/artifact/J92Nu5shqb22V2CUA5LYzQ) | [Notebook](lecciones/leccion11/MatComp_Leccion11_Pi_por_Montecarlo.ipynb) |
-| 12 | Combinatoria (principio multiplicativo, permutaciones, combinaciones, caminos y Baloto) | [Guía](https://claude.ai/artifact/4rFzqqkWsUVekcw54TG2tw) | [Notebook](lecciones/leccion12/MatComp_Leccion12_Combinatoria.ipynb) |
+
+### Sección 2: Matemáticas y Computación
+
+Exploraciones matemáticas con Python (requiere lo básico de la Sección 1).
+
+| # | Tema | Guía docente | Notebook |
+|---|------|--------------|-----------|
+| 1 | Patrones y sucesiones (triangulares, Fibonacci, Collatz) | [Guía](https://claude.ai/artifact/8k6fgj7tR4xLzP6rBUAPCy) | [Notebook](lecciones/seccion2_matematicas/leccion01/MatComp_Leccion01_Patrones_y_sucesiones.ipynb) |
+| 2 | El azar (monedas con random y el triángulo de Sierpinski con sliders) | [Guía](https://claude.ai/artifact/J9hg34z5dVTxz8kEgLq2ce) | [Notebook](lecciones/seccion2_matematicas/leccion02/MatComp_Leccion02_El_azar_y_Sierpinski.ipynb) |
+| 3 | Números primos (divisores, criba de Eratóstenes, espiral de Ulam) | [Guía](https://claude.ai/artifact/UNYznNe12XEAx2mru8iVNQ) | [Notebook](lecciones/seccion2_matematicas/leccion03/MatComp_Leccion03_Numeros_primos.ipynb) |
+| 4 | El algoritmo de Euclides (máximo común divisor, baldosas, coprimos) | [Guía](https://claude.ai/artifact/WL6B6uTuryfAPrVYEGdGHd) | [Notebook](lecciones/seccion2_matematicas/leccion04/MatComp_Leccion04_Algoritmo_de_Euclides.ipynb) |
+| 5 | El sistema binario (tarjetas mágicas, otras bases, colores hexadecimales) | [Guía](https://claude.ai/artifact/YGMex9fsBEToSuAXQZFvp9) | [Notebook](lecciones/seccion2_matematicas/leccion05/MatComp_Leccion05_Sistema_binario.ipynb) |
+| 6 | Decimales periódicos (división larga, el número cíclico 142857, 0,999… = 1) | [Guía](https://claude.ai/artifact/QPJd9MzAC72KkRxGbvRtvi) | [Notebook](lecciones/seccion2_matematicas/leccion06/MatComp_Leccion06_Decimales_periodicos.ipynb) |
+| 7 | Funciones y gráficas (rectas y parábolas con sliders, crecimiento exponencial, bisección) | [Guía](https://claude.ai/artifact/JuYcf6Mn9CkBMZfSjNWfK2) | [Notebook](lecciones/seccion2_matematicas/leccion07/MatComp_Leccion07_Funciones_y_graficas.ipynb) |
+| 8 | Geometría con dibujos (la tortuga programable, estrellas y MCD, π de Arquímedes) | [Guía](https://claude.ai/artifact/EBx5CrvGeUrSifoYkwZLgD) | [Notebook](lecciones/seccion2_matematicas/leccion08/MatComp_Leccion08_Geometria_con_dibujos.ipynb) |
+| 9 | El teorema de Pitágoras (demostración visual, ternas pitagóricas, espiral de Teodoro) | [Guía](https://claude.ai/artifact/8PsToHuy1cDGpkrSZxLnhX) | [Notebook](lecciones/seccion2_matematicas/leccion09/MatComp_Leccion09_Teorema_de_Pitagoras.ipynb) |
+| 10 | Probabilidad (el problema de Monty Hall y la paradoja del cumpleaños) | [Guía](https://claude.ai/artifact/VoJLR5VxnSnLauV7zb62cB) | [Notebook](lecciones/seccion2_matematicas/leccion10/MatComp_Leccion10_Probabilidad_Monty_Hall.ipynb) |
+| 11 | π por Montecarlo (dardos al azar, error 1/√n, aguja de Buffon) | [Guía](https://claude.ai/artifact/J92Nu5shqb22V2CUA5LYzQ) | [Notebook](lecciones/seccion2_matematicas/leccion11/MatComp_Leccion11_Pi_por_Montecarlo.ipynb) |
+| 12 | Combinatoria (principio multiplicativo, permutaciones, combinaciones, caminos y Baloto) | [Guía](https://claude.ai/artifact/4rFzqqkWsUVekcw54TG2tw) | [Notebook](lecciones/seccion2_matematicas/leccion12/MatComp_Leccion12_Combinatoria.ipynb) |
+
+### Sección 3: Machine learning y redes neuronales
+
+Datos, modelos de aprendizaje automático y redes neuronales (requiere las Secciones 1 y 2).
+
+| # | Tema | Guía docente | Notebook |
+|---|------|--------------|-----------|
