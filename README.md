@@ -21,6 +21,7 @@ Doce lecciones para aprender Python paso a paso, pensadas para quien nunca ha pr
 |---|------|--------------|-----------|
 | 1 | Colab, `print` y Python como calculadora (operadores, comentarios y errores) | [Guía](https://claude.ai/artifact/8fA1fZBjsbqXRGBoSSbqRi) | [Notebook](lecciones/seccion1_python/leccion01/Py_Leccion01_Colab_print_y_calculadora.ipynb) |
 | 2 | Variables y tipos de datos (int, float, str, bool, conversiones e `input`) | [Guía](https://claude.ai/artifact/CjHzH3SLfx1R7EWch51awk) | [Notebook](lecciones/seccion1_python/leccion02/Py_Leccion02_Variables_y_tipos.ipynb) |
+| 3 | Textos (f-strings, índices, rebanadas, métodos y palíndromos) | [Guía](https://claude.ai/artifact/1Yg3ih9K2VdggmhEhd2Gxd) | [Notebook](lecciones/seccion1_python/leccion03/Py_Leccion03_Textos.ipynb) |
 
 </details>
 
