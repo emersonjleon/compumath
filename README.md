@@ -25,6 +25,7 @@ Doce lecciones para aprender Python paso a paso, pensadas para quien nunca ha pr
 | 4 | Condicionales (if, elif, else, and/or/not y piedra, papel o tijera) | [Guía](https://claude.ai/artifact/JZtgwPXbFDm4GHvK8DG9a9) | [Notebook](lecciones/seccion1_python/leccion04/Py_Leccion04_Condicionales.ipynb) |
 | 5 | Ciclos `for` y `range` (acumuladores, la suma de Gauss, FizzBuzz y ciclos anidados) | [Guía](https://claude.ai/artifact/VhhSBbyMmYNS3FKNRCNKdB) | [Notebook](lecciones/seccion1_python/leccion05/Py_Leccion05_Ciclos_for.ipynb) |
 | 6 | Ciclos `while` (doblar papel hasta la Luna, break, continue, adivina el número y Collatz) | [Guía](https://claude.ai/artifact/B6PYxpgbBV8QMkcX7EGnPg) | [Notebook](lecciones/seccion1_python/leccion06/Py_Leccion06_Ciclos_while.ipynb) |
+| 7 | Listas (append, pop, sorted, comprensiones y la suma de dos dados) | [Guía](https://claude.ai/artifact/SCuMSMoffstVd5JpuiesyJ) | [Notebook](lecciones/seccion1_python/leccion07/Py_Leccion07_Listas.ipynb) |
 
 </details>
 
