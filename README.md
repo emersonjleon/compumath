@@ -57,5 +57,8 @@ Datos, modelos de aprendizaje automático y redes neuronales (requiere las Secci
 
 | # | Tema | Guía docente | Notebook |
 |---|------|--------------|-----------|
+| 1 | Datos con pandas (DataFrames, filtros, groupby, datos faltantes y correlación) | [Guía](https://claude.ai/artifact/PQe17byipkK7QfoZzoqy3D) | [Notebook](lecciones/seccion3_ml/leccion01/ML_Leccion01_Datos_con_pandas.ipynb) |
+| 2 | Regresión lineal (error cuadrático medio, mínimos cuadrados, scikit-learn y R²) | [Guía](https://claude.ai/artifact/MqJdmb2smvKzukwCpqNFCV) | [Notebook](lecciones/seccion3_ml/leccion02/ML_Leccion02_Regresion_lineal.ipynb) |
+| 3 | Descenso de gradiente (pendiente, tasa de aprendizaje y entrenar una recta desde cero) | [Guía](https://claude.ai/artifact/YP6JrBwrRLMXUBFEzBXEWV) | [Notebook](lecciones/seccion3_ml/leccion03/ML_Leccion03_Descenso_de_gradiente.ipynb) |
 
 </details>
