@@ -24,6 +24,7 @@ Doce lecciones para aprender Python paso a paso, pensadas para quien nunca ha pr
 | 3 | Textos (f-strings, índices, rebanadas, métodos y palíndromos) | [Guía](https://claude.ai/artifact/1Yg3ih9K2VdggmhEhd2Gxd) | [Notebook](lecciones/seccion1_python/leccion03/Py_Leccion03_Textos.ipynb) |
 | 4 | Condicionales (if, elif, else, and/or/not y piedra, papel o tijera) | [Guía](https://claude.ai/artifact/JZtgwPXbFDm4GHvK8DG9a9) | [Notebook](lecciones/seccion1_python/leccion04/Py_Leccion04_Condicionales.ipynb) |
 | 5 | Ciclos `for` y `range` (acumuladores, la suma de Gauss, FizzBuzz y ciclos anidados) | [Guía](https://claude.ai/artifact/VhhSBbyMmYNS3FKNRCNKdB) | [Notebook](lecciones/seccion1_python/leccion05/Py_Leccion05_Ciclos_for.ipynb) |
+| 6 | Ciclos `while` (doblar papel hasta la Luna, break, continue, adivina el número y Collatz) | [Guía](https://claude.ai/artifact/B6PYxpgbBV8QMkcX7EGnPg) | [Notebook](lecciones/seccion1_python/leccion06/Py_Leccion06_Ciclos_while.ipynb) |
 
 </details>
 
