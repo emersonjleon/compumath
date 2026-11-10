@@ -28,6 +28,7 @@ Doce lecciones para aprender Python paso a paso, pensadas para quien nunca ha pr
 | 7 | Listas (append, pop, sorted, comprensiones y la suma de dos dados) | [Guía](https://claude.ai/artifact/SCuMSMoffstVd5JpuiesyJ) | [Notebook](lecciones/seccion1_python/leccion07/Py_Leccion07_Listas.ipynb) |
 | 8 | Funciones (def, parámetros, return y números amigos) | [Guía](https://claude.ai/artifact/6c2aHzTtACuSZ2no3DyYwu) | [Notebook](lecciones/seccion1_python/leccion08/Py_Leccion08_Funciones.ipynb) |
 | 9 | Diccionarios y tuplas (contar con diccionarios, desempacar tuplas y descifrar a César por frecuencias) | [Guía](https://claude.ai/artifact/DeqUyBuFSAEFyFbjwzStqL) | [Notebook](lecciones/seccion1_python/leccion09/Py_Leccion09_Diccionarios_y_tuplas.ipynb) |
+| 10 | Gráficas con matplotlib (líneas, funciones, dispersión, barras, histogramas, subplots y curvas paramétricas) | [Guía](https://claude.ai/artifact/KutGXvMjfFa67GC1xuJqLr) | [Notebook](lecciones/seccion1_python/leccion10/Py_Leccion10_Graficas_con_matplotlib.ipynb) |
 
 </details>
 
