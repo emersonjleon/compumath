@@ -30,6 +30,7 @@ Doce lecciones para aprender Python paso a paso, pensadas para quien nunca ha pr
 | 9 | Diccionarios y tuplas (contar con diccionarios, desempacar tuplas y descifrar a César por frecuencias) | [Guía](https://claude.ai/artifact/DeqUyBuFSAEFyFbjwzStqL) | [Notebook](lecciones/seccion1_python/leccion09/Py_Leccion09_Diccionarios_y_tuplas.ipynb) |
 | 10 | Gráficas con matplotlib (líneas, funciones, dispersión, barras, histogramas, subplots y curvas paramétricas) | [Guía](https://claude.ai/artifact/KutGXvMjfFa67GC1xuJqLr) | [Notebook](lecciones/seccion1_python/leccion10/Py_Leccion10_Graficas_con_matplotlib.ipynb) |
 | 11 | numpy básico (arreglos, máscaras, matrices como imágenes y la carrera contra el `for`) | [Guía](https://claude.ai/artifact/RSkLucZ7Z43qt78wQvABW7) | [Notebook](lecciones/seccion1_python/leccion11/Py_Leccion11_Numpy_basico.ipynb) |
+| 12 | Proyecto integrador: Picas y Fijas (manejo de errores con try/except, raise y assert; la computadora juega sola) | [Guía](https://claude.ai/artifact/F9cmkRCWgyyvT3Pnv7wGU9) | [Notebook](lecciones/seccion1_python/leccion12/Py_Leccion12_Proyecto_Picas_y_Fijas.ipynb) |
 
 </details>
 
