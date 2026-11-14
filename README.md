@@ -67,5 +67,6 @@ Datos, modelos de aprendizaje automático y redes neuronales (requiere las Secci
 | 2 | Regresión lineal (error cuadrático medio, mínimos cuadrados, scikit-learn y R²) | [Guía](https://claude.ai/artifact/MqJdmb2smvKzukwCpqNFCV) | [Notebook](lecciones/seccion3_ml/leccion02/ML_Leccion02_Regresion_lineal.ipynb) |
 | 3 | Descenso de gradiente (pendiente, tasa de aprendizaje y entrenar una recta desde cero) | [Guía](https://claude.ai/artifact/YP6JrBwrRLMXUBFEzBXEWV) | [Notebook](lecciones/seccion3_ml/leccion03/ML_Leccion03_Descenso_de_gradiente.ipynb) |
 | 4 | Clasificación con k vecinos (distancia, votación, mapa de decisión, normalizar y scikit-learn) | [Guía](https://claude.ai/artifact/Lx1AxUkd4MbnM3Ds85u3QT) | [Notebook](lecciones/seccion3_ml/leccion04/ML_Leccion04_K_vecinos.ipynb) |
+| 5 | Árboles de decisión (índice de Gini, la mejor pregunta, plot_tree, sobreajuste e importancia de variables) | [Guía](https://claude.ai/artifact/Lt1EnCd7UDA3EsNeQvyvdo) | [Notebook](lecciones/seccion3_ml/leccion05/ML_Leccion05_Arboles_de_decision.ipynb) |
 
 </details>
