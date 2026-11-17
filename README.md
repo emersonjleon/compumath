@@ -70,5 +70,6 @@ Datos, modelos de aprendizaje automático y redes neuronales (requiere las Secci
 | 5 | Árboles de decisión (índice de Gini, la mejor pregunta, plot_tree, sobreajuste e importancia de variables) | [Guía](https://claude.ai/artifact/Lt1EnCd7UDA3EsNeQvyvdo) | [Notebook](lecciones/seccion3_ml/leccion05/ML_Leccion05_Arboles_de_decision.ipynb) |
 | 6 | Agrupamiento con k-means (aprendizaje no supervisado, inercia, mínimos locales, método del codo, dígitos sin etiquetas) | [Guía](https://claude.ai/artifact/JW9iR4Fv9ZaVjoSy4ZUVGd) | [Notebook](lecciones/seccion3_ml/leccion06/ML_Leccion06_K_means.ipynb) |
 | 7 | Evaluación, entrenamiento/prueba y sobreajuste (curva en U, validación cruzada, matriz de confusión, exactitud, precisión y sensibilidad) | [Guía](https://claude.ai/artifact/CRy8ywugCitt2AqzVdg5Z4) | [Notebook](lecciones/seccion3_ml/leccion07/ML_Leccion07_Evaluacion_y_sobreajuste.ipynb) |
+| 8 | El perceptrón (neurona artificial, compuertas lógicas, regla de aprendizaje, separabilidad lineal y el problema del XOR) | [Guía](https://claude.ai/artifact/Ti2c3p4RDVVGvb68Svj7J1) | [Notebook](lecciones/seccion3_ml/leccion08/ML_Leccion08_El_perceptron.ipynb) |
 
 </details>
