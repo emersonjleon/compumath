@@ -71,5 +71,6 @@ Datos, modelos de aprendizaje automático y redes neuronales (requiere las Secci
 | 6 | Agrupamiento con k-means (aprendizaje no supervisado, inercia, mínimos locales, método del codo, dígitos sin etiquetas) | [Guía](https://claude.ai/artifact/JW9iR4Fv9ZaVjoSy4ZUVGd) | [Notebook](lecciones/seccion3_ml/leccion06/ML_Leccion06_K_means.ipynb) |
 | 7 | Evaluación, entrenamiento/prueba y sobreajuste (curva en U, validación cruzada, matriz de confusión, exactitud, precisión y sensibilidad) | [Guía](https://claude.ai/artifact/CRy8ywugCitt2AqzVdg5Z4) | [Notebook](lecciones/seccion3_ml/leccion07/ML_Leccion07_Evaluacion_y_sobreajuste.ipynb) |
 | 8 | El perceptrón (neurona artificial, compuertas lógicas, regla de aprendizaje, separabilidad lineal y el problema del XOR) | [Guía](https://claude.ai/artifact/Ti2c3p4RDVVGvb68Svj7J1) | [Notebook](lecciones/seccion3_ml/leccion08/ML_Leccion08_El_perceptron.ipynb) |
+| 9 | Una red neuronal desde cero con numpy (sigmoide, capas como matrices, propagación hacia adelante, entrenamiento con gradiente numérico, XOR y medias lunas) | [Guía](https://claude.ai/artifact/MUrmAC4Ajvot7S49YRNfzJ) | [Notebook](lecciones/seccion3_ml/leccion09/ML_Leccion09_Red_neuronal_desde_cero.ipynb) |
 
 </details>
