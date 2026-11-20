@@ -1,7 +1,7 @@
 # Semillero 2026
 ## Olimpiadas Colombianas de Inteligencia Artificial.
 
-Curso online de **Matemáticas y Computación**: lecciones con notebooks de Python para Google Colab (generado por IA: Claude Opus 5.5).
+Curso online de **Matemáticas y Computación**: lecciones con notebooks de Python para Google Colab 
 
 ## Links
 Acá podras encontrar material que te ayude a preparar en temas de programación e inteligencia artificial:
@@ -86,3 +86,6 @@ Del perceptrón a las redes profundas, siempre con PyTorch (requiere la Sección
 | 4 | PyTorch con MNIST (tensores, autograd, ciclo de entrenamiento, lotes y épocas, ReLU, entropía cruzada, matriz de confusión, debilidad ante desplazamientos) | [Guía](https://claude.ai/artifact/S3LeyoFBLB3wtwVeYGR92s) | [Notebook](lecciones/seccion4_redes/leccion04/RN_Leccion04_PyTorch_con_MNIST.ipynb) |
 
 </details>
+<small> 
+Este material fue generado por Emerson León (Universidad Antonio Nariño), usando IA: Claude Opus 5.5.
+<\small> 
