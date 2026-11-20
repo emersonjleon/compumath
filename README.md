@@ -10,7 +10,7 @@ Acá podras encontrar material que te ayude a preparar en temas de programación
 
 ## Lecciones
 
-El curso tiene tres secciones. Si nunca has programado, empieza por la Sección 1.
+El curso tiene cuatro secciones. Si nunca has programado, empieza por la Sección 1.
 
 <details open>
 <summary><strong>Sección 1: Python desde cero</strong></summary>
@@ -57,9 +57,9 @@ Exploraciones matemáticas con Python (requiere lo básico de la Sección 1).
 </details>
 
 <details>
-<summary><strong>Sección 3: Machine learning y redes neuronales</strong></summary>
+<summary><strong>Sección 3: Machine learning</strong></summary>
 
-Datos, modelos de aprendizaje automático y redes neuronales (requiere las Secciones 1 y 2).
+Datos y modelos clásicos de aprendizaje automático con numpy y scikit-learn (requiere las Secciones 1 y 2).
 
 | # | Tema | Guía docente | Notebook |
 |---|------|--------------|-----------|
@@ -70,9 +70,19 @@ Datos, modelos de aprendizaje automático y redes neuronales (requiere las Secci
 | 5 | Árboles de decisión (índice de Gini, la mejor pregunta, plot_tree, sobreajuste e importancia de variables) | [Guía](https://claude.ai/artifact/Lt1EnCd7UDA3EsNeQvyvdo) | [Notebook](lecciones/seccion3_ml/leccion05/ML_Leccion05_Arboles_de_decision.ipynb) |
 | 6 | Agrupamiento con k-means (aprendizaje no supervisado, inercia, mínimos locales, método del codo, dígitos sin etiquetas) | [Guía](https://claude.ai/artifact/JW9iR4Fv9ZaVjoSy4ZUVGd) | [Notebook](lecciones/seccion3_ml/leccion06/ML_Leccion06_K_means.ipynb) |
 | 7 | Evaluación, entrenamiento/prueba y sobreajuste (curva en U, validación cruzada, matriz de confusión, exactitud, precisión y sensibilidad) | [Guía](https://claude.ai/artifact/CRy8ywugCitt2AqzVdg5Z4) | [Notebook](lecciones/seccion3_ml/leccion07/ML_Leccion07_Evaluacion_y_sobreajuste.ipynb) |
-| 8 | El perceptrón (neurona artificial, compuertas lógicas, regla de aprendizaje, separabilidad lineal y el problema del XOR) | [Guía](https://claude.ai/artifact/Ti2c3p4RDVVGvb68Svj7J1) | [Notebook](lecciones/seccion3_ml/leccion08/ML_Leccion08_El_perceptron.ipynb) |
-| 9 | Una red neuronal desde cero con numpy (sigmoide, capas como matrices, propagación hacia adelante, entrenamiento con gradiente numérico, XOR y medias lunas) | [Guía](https://claude.ai/artifact/MUrmAC4Ajvot7S49YRNfzJ) | [Notebook](lecciones/seccion3_ml/leccion09/ML_Leccion09_Red_neuronal_desde_cero.ipynb) |
-| 10 | Retropropagación (regla de la cadena, derivada de la sigmoide, culpa hacia atrás, comprobación numérica, red que lee dígitos, desvanecimiento del gradiente) | [Guía](https://claude.ai/artifact/8qxS75ZknZgRjC2beky5Ra) | [Notebook](lecciones/seccion3_ml/leccion10/ML_Leccion10_Retropropagacion.ipynb) |
-| 11 | PyTorch con MNIST (tensores, autograd, ciclo de entrenamiento, lotes y épocas, ReLU, entropía cruzada, matriz de confusión, debilidad ante desplazamientos) | [Guía](https://claude.ai/artifact/S3LeyoFBLB3wtwVeYGR92s) | [Notebook](lecciones/seccion3_ml/leccion11/ML_Leccion11_PyTorch_con_MNIST.ipynb) |
+
+</details>
+
+<details>
+<summary><strong>Sección 4: Redes neuronales</strong></summary>
+
+Del perceptrón a las redes profundas, siempre con PyTorch (requiere la Sección 3).
+
+| # | Tema | Guía docente | Notebook |
+|---|------|--------------|-----------|
+| 1 | El perceptrón (neurona artificial, compuertas lógicas, regla de aprendizaje, separabilidad lineal y el problema del XOR) | [Guía](https://claude.ai/artifact/Ti2c3p4RDVVGvb68Svj7J1) | [Notebook](lecciones/seccion4_redes/leccion01/RN_Leccion01_El_perceptron.ipynb) |
+| 2 | Una red neuronal desde cero con numpy (sigmoide, capas como matrices, propagación hacia adelante, entrenamiento con gradiente numérico, XOR y medias lunas) | [Guía](https://claude.ai/artifact/MUrmAC4Ajvot7S49YRNfzJ) | [Notebook](lecciones/seccion4_redes/leccion02/RN_Leccion02_Red_neuronal_desde_cero.ipynb) |
+| 3 | Retropropagación (regla de la cadena, derivada de la sigmoide, culpa hacia atrás, comprobación numérica, red que lee dígitos, desvanecimiento del gradiente) | [Guía](https://claude.ai/artifact/8qxS75ZknZgRjC2beky5Ra) | [Notebook](lecciones/seccion4_redes/leccion03/RN_Leccion03_Retropropagacion.ipynb) |
+| 4 | PyTorch con MNIST (tensores, autograd, ciclo de entrenamiento, lotes y épocas, ReLU, entropía cruzada, matriz de confusión, debilidad ante desplazamientos) | [Guía](https://claude.ai/artifact/S3LeyoFBLB3wtwVeYGR92s) | [Notebook](lecciones/seccion4_redes/leccion04/RN_Leccion04_PyTorch_con_MNIST.ipynb) |
 
 </details>
