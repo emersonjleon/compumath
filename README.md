@@ -88,4 +88,4 @@ Del perceptrón a las redes profundas, siempre con PyTorch (requiere la Sección
 </details>
 <small> 
 Este material fue generado por Emerson León (Universidad Antonio Nariño), usando IA: Claude Opus 5.5.
-<\small> 
+</small>
