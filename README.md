@@ -70,6 +70,7 @@ Datos y modelos clásicos de aprendizaje automático con numpy y scikit-learn (r
 | 5 | Árboles de decisión (índice de Gini, la mejor pregunta, plot_tree, sobreajuste e importancia de variables) | [Guía](https://claude.ai/artifact/Lt1EnCd7UDA3EsNeQvyvdo) | [Notebook](lecciones/seccion3_ml/leccion05/ML_Leccion05_Arboles_de_decision.ipynb) |
 | 6 | Agrupamiento con k-means (aprendizaje no supervisado, inercia, mínimos locales, método del codo, dígitos sin etiquetas) | [Guía](https://claude.ai/artifact/JW9iR4Fv9ZaVjoSy4ZUVGd) | [Notebook](lecciones/seccion3_ml/leccion06/ML_Leccion06_K_means.ipynb) |
 | 7 | Evaluación, entrenamiento/prueba y sobreajuste (curva en U, validación cruzada, matriz de confusión, exactitud, precisión y sensibilidad) | [Guía](https://claude.ai/artifact/CRy8ywugCitt2AqzVdg5Z4) | [Notebook](lecciones/seccion3_ml/leccion07/ML_Leccion07_Evaluacion_y_sobreajuste.ipynb) |
+| 8 | Regresión logística (sigmoide, probabilidad, frontera de decisión, entropía cruzada, descenso de gradiente, umbral y softmax con dígitos) | [Guía](https://claude.ai/artifact/68v4VTFo8Jve5DdKPhKoMJ) | [Notebook](lecciones/seccion3_ml/leccion08/ML_Leccion08_Regresion_logistica.ipynb) |
 
 </details>
 
