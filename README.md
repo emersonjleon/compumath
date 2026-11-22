@@ -71,6 +71,7 @@ Datos y modelos clásicos de aprendizaje automático con numpy y scikit-learn (r
 | 6 | Agrupamiento con k-means (aprendizaje no supervisado, inercia, mínimos locales, método del codo, dígitos sin etiquetas) | [Guía](https://claude.ai/artifact/JW9iR4Fv9ZaVjoSy4ZUVGd) | [Notebook](lecciones/seccion3_ml/leccion06/ML_Leccion06_K_means.ipynb) |
 | 7 | Evaluación, entrenamiento/prueba y sobreajuste (curva en U, validación cruzada, matriz de confusión, exactitud, precisión y sensibilidad) | [Guía](https://claude.ai/artifact/CRy8ywugCitt2AqzVdg5Z4) | [Notebook](lecciones/seccion3_ml/leccion07/ML_Leccion07_Evaluacion_y_sobreajuste.ipynb) |
 | 8 | Regresión logística (sigmoide, probabilidad, frontera de decisión, entropía cruzada, descenso de gradiente, umbral y softmax con dígitos) | [Guía](https://claude.ai/artifact/68v4VTFo8Jve5DdKPhKoMJ) | [Notebook](lecciones/seccion3_ml/leccion08/ML_Leccion08_Regresion_logistica.ipynb) |
+| 9 | Regresión múltiple y polinomial (mínimos cuadrados con matrices, coeficientes normalizados, características polinomiales, distancia de frenado, regularización Ridge y Lasso) | [Guía](https://claude.ai/artifact/F1HPHjBC46b8pEjBi969J6) | [Notebook](lecciones/seccion3_ml/leccion09/ML_Leccion09_Regresion_multiple_y_polinomial.ipynb) |
 
 </details>
 
