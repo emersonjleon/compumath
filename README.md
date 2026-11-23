@@ -72,6 +72,7 @@ Datos y modelos clásicos de aprendizaje automático con numpy y scikit-learn (r
 | 7 | Evaluación, entrenamiento/prueba y sobreajuste (curva en U, validación cruzada, matriz de confusión, exactitud, precisión y sensibilidad) | [Guía](https://claude.ai/artifact/CRy8ywugCitt2AqzVdg5Z4) | [Notebook](lecciones/seccion3_ml/leccion07/ML_Leccion07_Evaluacion_y_sobreajuste.ipynb) |
 | 8 | Regresión logística (sigmoide, probabilidad, frontera de decisión, entropía cruzada, descenso de gradiente, umbral y softmax con dígitos) | [Guía](https://claude.ai/artifact/68v4VTFo8Jve5DdKPhKoMJ) | [Notebook](lecciones/seccion3_ml/leccion08/ML_Leccion08_Regresion_logistica.ipynb) |
 | 9 | Regresión múltiple y polinomial (mínimos cuadrados con matrices, coeficientes normalizados, características polinomiales, distancia de frenado, regularización Ridge y Lasso) | [Guía](https://claude.ai/artifact/F1HPHjBC46b8pEjBi969J6) | [Notebook](lecciones/seccion3_ml/leccion09/ML_Leccion09_Regresion_multiple_y_polinomial.ipynb) |
+| 10 | Bosques aleatorios y ensambles (sabiduría de la multitud, votación, bootstrap, bagging, bosque aleatorio, error fuera de la bolsa, importancia de variables y boosting) | [Guía](https://claude.ai/artifact/GSc2a267jv4y6SGJAsP8Qc) | [Notebook](lecciones/seccion3_ml/leccion10/ML_Leccion10_Bosques_aleatorios.ipynb) |
 
 </details>
 
