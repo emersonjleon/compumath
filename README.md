@@ -74,6 +74,7 @@ Datos y modelos clásicos de aprendizaje automático con numpy y scikit-learn (r
 | 9 | Regresión múltiple y polinomial (mínimos cuadrados con matrices, coeficientes normalizados, características polinomiales, distancia de frenado, regularización Ridge y Lasso) | [Guía](https://claude.ai/artifact/F1HPHjBC46b8pEjBi969J6) | [Notebook](lecciones/seccion3_ml/leccion09/ML_Leccion09_Regresion_multiple_y_polinomial.ipynb) |
 | 10 | Bosques aleatorios y ensambles (sabiduría de la multitud, votación, bootstrap, bagging, bosque aleatorio, error fuera de la bolsa, importancia de variables y boosting) | [Guía](https://claude.ai/artifact/GSc2a267jv4y6SGJAsP8Qc) | [Notebook](lecciones/seccion3_ml/leccion10/ML_Leccion10_Bosques_aleatorios.ipynb) |
 | 11 | Reducción de dimensionalidad con PCA (proyecciones, varianza, componentes principales, mapa de los dígitos, compresión y normalización) | [Guía](https://claude.ai/artifact/AYzqRA52hdrAiGaQf1jimt) | [Notebook](lecciones/seccion3_ml/leccion11/ML_Leccion11_Reduccion_de_dimensionalidad_PCA.ipynb) |
+| 12 | Proyecto final (limpiar datos crudos, explorar, one-hot y ColumnTransformer, línea base, validación cruzada, GridSearchCV, evaluación final, fugas de información e informe) | [Guía](https://claude.ai/artifact/WWtE9Z288kyKdN9opXMMLk) | [Notebook](lecciones/seccion3_ml/leccion12/ML_Leccion12_Proyecto_final.ipynb) |
 
 </details>
 
