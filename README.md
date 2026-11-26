@@ -89,6 +89,7 @@ Del perceptrón a las redes profundas, siempre con PyTorch (requiere la Sección
 | 2 | Una red neuronal desde cero con numpy (sigmoide, capas como matrices, propagación hacia adelante, entrenamiento con gradiente numérico, XOR y medias lunas) | [Guía](https://claude.ai/artifact/MUrmAC4Ajvot7S49YRNfzJ) | [Notebook](lecciones/seccion4_redes/leccion02/RN_Leccion02_Red_neuronal_desde_cero.ipynb) |
 | 3 | Retropropagación (regla de la cadena, derivada de la sigmoide, culpa hacia atrás, comprobación numérica, red que lee dígitos, desvanecimiento del gradiente) | [Guía](https://claude.ai/artifact/8qxS75ZknZgRjC2beky5Ra) | [Notebook](lecciones/seccion4_redes/leccion03/RN_Leccion03_Retropropagacion.ipynb) |
 | 4 | PyTorch con MNIST (tensores, autograd, ciclo de entrenamiento, lotes y épocas, ReLU, entropía cruzada, matriz de confusión, debilidad ante desplazamientos) | [Guía](https://claude.ai/artifact/S3LeyoFBLB3wtwVeYGR92s) | [Notebook](lecciones/seccion4_redes/leccion04/RN_Leccion04_PyTorch_con_MNIST.ipynb) |
+| 5 | Redes convolucionales (convolución a mano, filtros de bordes, mapas de características, padding, max pooling, nn.Conv2d, comparación con la red densa, robustez al desplazamiento, filtros aprendidos) | [Guía](https://claude.ai/artifact/Ntch2wQrS732qRscqqdcr2) | [Notebook](lecciones/seccion4_redes/leccion05/RN_Leccion05_Redes_convolucionales.ipynb) |
 
 </details>
 
