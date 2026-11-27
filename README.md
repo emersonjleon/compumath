@@ -90,6 +90,7 @@ Del perceptrón a las redes profundas, siempre con PyTorch (requiere la Sección
 | 3 | Retropropagación (regla de la cadena, derivada de la sigmoide, culpa hacia atrás, comprobación numérica, red que lee dígitos, desvanecimiento del gradiente) | [Guía](https://claude.ai/artifact/8qxS75ZknZgRjC2beky5Ra) | [Notebook](lecciones/seccion4_redes/leccion03/RN_Leccion03_Retropropagacion.ipynb) |
 | 4 | PyTorch con MNIST (tensores, autograd, ciclo de entrenamiento, lotes y épocas, ReLU, entropía cruzada, matriz de confusión, debilidad ante desplazamientos) | [Guía](https://claude.ai/artifact/S3LeyoFBLB3wtwVeYGR92s) | [Notebook](lecciones/seccion4_redes/leccion04/RN_Leccion04_PyTorch_con_MNIST.ipynb) |
 | 5 | Redes convolucionales (convolución a mano, filtros de bordes, mapas de características, padding, max pooling, nn.Conv2d, comparación con la red densa, robustez al desplazamiento, filtros aprendidos) | [Guía](https://claude.ai/artifact/Ntch2wQrS732qRscqqdcr2) | [Notebook](lecciones/seccion4_redes/leccion05/RN_Leccion05_Redes_convolucionales.ipynb) |
+| 6 | Entrenar mejor (impulso y Adam a mano y en PyTorch, sobreajuste, dropout, train/eval, aumento de datos, inicialización de Kaiming, pesos en cero) | [Guía](https://claude.ai/artifact/HmgH3CzzZhEpy1rRE7x8jv) | [Notebook](lecciones/seccion4_redes/leccion06/RN_Leccion06_Entrenar_mejor.ipynb) |
 
 </details>
 
